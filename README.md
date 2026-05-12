@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, eu sou Anderson silva 1010 👋
 
-<!--
-**andersonsilva1010/andersonsilva1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise de sistemas 
+🚀 Focado em aprendizado e busca por estâgio área de TI
 
-Here are some ideas to get you started:
+##📚 Sobre mim
+- Aprendendo programação e tecnologia
+- Interesse em suporte têcnico e desenvolvimento
+- Buscando primeira oportunidade na área de TI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🎯 Objetivo
+Conseguir estágio em tenoclogia e evoluir como desenvolvedor
+
+📭 Contato
+- Linkedin https://br.linkedin.com/in/anderson-silva-502286142
